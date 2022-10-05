@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning on Bangkit 2022
+- 🌱 I’m full graduate on Bangkit 2022 (Android Learning Path)
 
 ### Speciality
 - Laravel
