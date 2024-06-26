@@ -15,11 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m full graduate on Bangkit 2022 (Android Learning Path)
+- 🌱 I’m fullstack dev
 
 ### Speciality
 - Laravel
 - Kotlin
+- Flutter
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codebysaad&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codebysaad&theme=github_dark&exclude=HTML)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codebysaad&theme=github_dark&exclude=HTML,Blade,CSS)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codebysaad&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codebysaad&theme=github_dark&utcOffset=7).
 
 <p align="left">
   <a href="https://github.com/codebysaad">
